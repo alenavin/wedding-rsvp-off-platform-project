@@ -1,4 +1,4 @@
-| Name              | Number of Guests |
+≈| Name              | Number of Guests |
 | -----------       | -----------   |
 | Rylee Cherry      | 2             |
 | Aimee Howard      | 3             |
